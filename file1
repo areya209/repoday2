@@ -1,0 +1,6 @@
+Remove Locally
+git branch -D dev
+
+Remove Remotely
+git push origin dev
+git branch -d dev
